@@ -9,6 +9,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-	"zendframework/zend-authentication" : "~1.0-dev"	
+	"zendframework/zend-authentication" : "~2.5.0-dev"	
      }
 }
