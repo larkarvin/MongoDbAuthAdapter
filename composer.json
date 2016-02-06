@@ -1,0 +1,13 @@
+{
+    "name": "larkarvin/mongodbauthadapter",
+    "description": "MongoDb Auth Adapter for Zend Framework 2, A quick and simple MongoDb Based Authentication Class",
+    "authors": [
+        {
+            "name": "arvin",
+            "email": "arvin@almar.io"
+        }
+    ],
+    "require": {
+	"zendframework/zend-authentication" : "~1.0-dev"	
+     }
+}
